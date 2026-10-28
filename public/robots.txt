@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novalyte-biopharma.pages.dev/sitemap.xml
