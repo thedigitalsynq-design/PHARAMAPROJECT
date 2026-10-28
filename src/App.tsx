@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { useState } from 'react';
+import { HashRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { DemoBanner } from './components/layout/DemoBanner';
 import { Navbar } from './components/layout/Navbar';
 import { Footer } from './components/layout/Footer';
